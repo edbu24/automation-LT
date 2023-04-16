@@ -1,0 +1,8 @@
+export const USER_NAME = 'standard_user'
+export const PASSWORD = 'secret_sauce'
+export const ITEM_NAME = 'Sauce Labs Fleece Jacket'
+export const COMPLETE_MESSAGE = 'Thank you for your order!'
+export const DESCRIPTION_COMPLETE_MESSAGE = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!'
+export const FNAME = 'Eduardo'
+export const LNAME = 'Burquez'
+export const ZIPCODE = '22875'
